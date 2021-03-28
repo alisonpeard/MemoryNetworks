@@ -1,0 +1,1030 @@
+source	target	frequency
+Albuquerque, NM	Los Angeles, CA	17106
+Albuquerque, NM	Oakland, CA	9809
+Albuquerque, NM	Ontario, CA	0
+Albuquerque, NM	San Diego, CA	4624
+Albuquerque, NM	San Francisco, CA	5054
+Anchorage, AK	Long Beach, CA	2449
+Anchorage, AK	Los Angeles, CA	841
+Anchorage, AK	Ontario, CA	0
+Arcata/Eureka, CA	Los Angeles, CA	1063
+Arcata/Eureka, CA	Redding, CA	0
+Arcata/Eureka, CA	Sacramento, CA	2781
+Arcata/Eureka, CA	San Francisco, CA	3759
+Aspen, CO	Los Angeles, CA	1134
+Atlanta, GA	Burbank, CA	3
+Atlanta, GA	Los Angeles, CA	81348
+Atlanta, GA	Oakland, CA	0
+Atlanta, GA	Ontario, CA	115
+Atlanta, GA	Sacramento, CA	9102
+Atlanta, GA	San Diego, CA	82172
+Atlanta, GA	San Francisco, CA	81292
+Atlanta, GA	San Jose, CA	6889
+Atlanta, GA	Santa Ana, CA	15303
+Atlanta, GA	Santa Monica, CA	6
+Austin, TX	Los Angeles, CA	20422
+Austin, TX	Oakland, CA	6884
+Austin, TX	Ontario, CA	119
+Austin, TX	San Diego, CA	8778
+Austin, TX	San Francisco, CA	6750
+Austin, TX	San Jose, CA	18172
+Bakersfield, CA	Bullhead City, AZ	16
+Bakersfield, CA	Denver, CO	2452
+Bakersfield, CA	Houston, TX	2428
+Bakersfield, CA	Modesto, CA	0
+Bakersfield, CA	Ontario, CA	0
+Bakersfield, CA	Phoenix, AZ	12742
+Bakersfield, CA	San Diego, CA	1267
+Baltimore, MD	Los Angeles, CA	11673
+Baltimore, MD	San Francisco, CA	4681
+Bangor, ME	Santa Barbara, CA	3
+Bellingham, WA	Long Beach, CA	1144
+Bellingham, WA	Palm Springs, CA	1423
+Bellingham, WA	San Diego, CA	1505
+Bishop, CA	Inyokern, CA	0
+Boise, ID	Los Angeles, CA	6314
+Boise, ID	Oakland, CA	8808
+Boise, ID	Sacramento, CA	1664
+Boise, ID	San Francisco, CA	9311
+Boise, ID	San Jose, CA	4834
+Boston, MA	Long Beach, CA	1251
+Boston, MA	Los Angeles, CA	40527
+Boston, MA	San Diego, CA	11039
+Boston, MA	San Francisco, CA	23579
+Bozeman, MT	Los Angeles, CA	1195
+Bozeman, MT	Sacramento, CA	144
+Buffalo, NY	San Francisco, CA	151
+Bullhead City, AZ	Burbank, CA	76
+Bullhead City, AZ	Long Beach, CA	245
+Bullhead City, AZ	Modesto, CA	126
+Bullhead City, AZ	Oakland, CA	121
+Bullhead City, AZ	Ontario, CA	191
+Bullhead City, AZ	San Diego, CA	128
+Bullhead City, AZ	San Jose, CA	242
+Burbank, CA	Atlanta, GA	0
+Burbank, CA	Baltimore, MD	5
+Burbank, CA	Bullhead City, AZ	285
+Burbank, CA	Charlotte, NC	1
+Burbank, CA	Chicago, IL	1
+Burbank, CA	Dallas/Fort Worth, TX	0
+Burbank, CA	Denver, CO	1809
+Burbank, CA	Des Moines, IA	0
+Burbank, CA	Fort Myers, FL	5
+Burbank, CA	Grand Junction, CO	45
+Burbank, CA	Honolulu, HI	5
+Burbank, CA	Indianapolis, IN	0
+Burbank, CA	Kahului, HI	3
+Burbank, CA	Kona, HI	5
+Burbank, CA	Las Vegas, NV	31497
+Burbank, CA	Louisville, KY	0
+Burbank, CA	Miami, FL	12
+Burbank, CA	Milwaukee, WI	61
+Burbank, CA	Monterey, CA	5
+Burbank, CA	Napa, CA	3
+Burbank, CA	New Orleans, LA	6
+Burbank, CA	Oakland, CA	35131
+Burbank, CA	Ontario, CA	1119
+Burbank, CA	Palm Springs, CA	0
+Burbank, CA	Pasco/Kennewick/Richland, WA	0
+Burbank, CA	Phoenix, AZ	24629
+Burbank, CA	Portland, OR	5026
+Burbank, CA	Richmond, VA	6
+Burbank, CA	Sacramento, CA	568
+Burbank, CA	Salina, KS	2
+Burbank, CA	Salt Lake City, UT	4377
+Burbank, CA	San Francisco, CA	10051
+Burbank, CA	San Jose, CA	54872
+Burbank, CA	Santa Ana, CA	0
+Burbank, CA	Santa Barbara, CA	8
+Burbank, CA	Santa Monica, CA	5
+Burbank, CA	Schenectady, NY	1
+Burbank, CA	Seattle, WA	16983
+Burbank, CA	Sun Valley/Hailey/Ketchum, ID	14
+Burbank, CA	Telluride, CO	2
+Burbank, CA	Teterboro, NJ	6
+Burbank, CA	Thermal, CA	2
+Burbank, CA	Van Nuys, CA	0
+Burbank, CA	Washington, DC	2
+Burbank, CA	Wichita Falls, TX	140
+Carlsbad, CA	Burbank, CA	0
+Carlsbad, CA	Los Angeles, CA	7395
+Carlsbad, CA	San Jose, CA	1
+Charlotte, NC	Los Angeles, CA	41377
+Charlotte, NC	San Francisco, CA	75741
+Cherry Point, NC	Riverside, CA	637
+Chicago, IL	Burbank, CA	7
+Chicago, IL	Long Beach, CA	3723
+Chicago, IL	Los Angeles, CA	163238
+Chicago, IL	Oakland, CA	9634
+Chicago, IL	Ontario, CA	4027
+Chicago, IL	Palm Springs, CA	5245
+Chicago, IL	Sacramento, CA	7367
+Chicago, IL	San Diego, CA	87709
+Chicago, IL	San Francisco, CA	59714
+Chicago, IL	San Jose, CA	16200
+Chicago, IL	Santa Ana, CA	51944
+Chico, CA	Sacramento, CA	0
+Chico, CA	San Francisco, CA	2978
+Cincinnati, OH	Los Angeles, CA	5868
+Cincinnati, OH	San Diego, CA	3832
+Cincinnati, OH	San Francisco, CA	6697
+Cleveland, OH	Los Angeles, CA	26015
+Cleveland, OH	Sacramento, CA	38
+Cleveland, OH	San Francisco, CA	21135
+Cleveland, OH	San Jose, CA	6
+Colorado Springs, CO	Long Beach, CA	1165
+Colorado Springs, CO	Los Angeles, CA	1155
+Colorado Springs, CO	San Francisco, CA	387
+Columbia, SC	Ontario, CA	0
+Columbia, SC	Sacramento, CA	0
+Columbus, OH	Los Angeles, CA	2592
+Crescent City, CA	Arcata/Eureka, CA	353
+Crescent City, CA	Chico, CA	0
+Crescent City, CA	Sacramento, CA	7
+Crescent City, CA	San Francisco, CA	2275
+Crescent City, CA	Santa Barbara, CA	0
+Dallas, TX	Los Angeles, CA	48
+Dallas, TX	Oakland, CA	51
+Dallas/Fort Worth, TX	Burbank, CA	10752
+Dallas/Fort Worth, TX	Fresno, CA	6602
+Dallas/Fort Worth, TX	Los Angeles, CA	62848
+Dallas/Fort Worth, TX	Oakland, CA	95
+Dallas/Fort Worth, TX	Ontario, CA	47026
+Dallas/Fort Worth, TX	San Diego, CA	9093
+Dallas/Fort Worth, TX	San Francisco, CA	12344
+Dallas/Fort Worth, TX	San Jose, CA	39785
+Dallas/Fort Worth, TX	Santa Ana, CA	76432
+Denver, CO	Bakersfield, CA	2060
+Denver, CO	Burbank, CA	9702
+Denver, CO	Fresno, CA	6817
+Denver, CO	Los Angeles, CA	86608
+Denver, CO	Monterey, CA	2844
+Denver, CO	Oakland, CA	14580
+Denver, CO	Ontario, CA	9293
+Denver, CO	Palm Springs, CA	7478
+Denver, CO	Sacramento, CA	51550
+Denver, CO	San Diego, CA	70224
+Denver, CO	San Francisco, CA	46849
+Denver, CO	San Jose, CA	31146
+Denver, CO	Santa Ana, CA	54670
+Denver, CO	Santa Barbara, CA	10510
+Des Moines, IA	Burbank, CA	0
+Des Moines, IA	Oakland, CA	0
+Des Moines, IA	San Jose, CA	0
+Detroit, MI	Long Beach, CA	0
+Detroit, MI	Los Angeles, CA	39428
+Detroit, MI	San Diego, CA	11667
+Detroit, MI	San Francisco, CA	27298
+Detroit, MI	San Jose, CA	0
+East Farmingdale, NY	Burbank, CA	1
+El Centro, CA	Los Angeles, CA	960
+El Centro, CA	San Diego, CA	0
+El Paso, TX	Los Angeles, CA	2762
+El Paso, TX	Palm Springs, CA	28
+El Paso, TX	San Diego, CA	425
+El Paso, TX	San Francisco, CA	151
+El Paso, TX	San Jose, CA	121
+Eugene, OR	Los Angeles, CA	2453
+Eugene, OR	San Francisco, CA	5922
+Fort Lauderdale, FL	Los Angeles, CA	24700
+Fort Lauderdale, FL	San Francisco, CA	11726
+Fort Myers, FL	Los Angeles, CA	0
+Fresno, CA	Cincinnati, OH	0
+Fresno, CA	Dallas/Fort Worth, TX	13272
+Fresno, CA	Denver, CO	7785
+Fresno, CA	Las Vegas, NV	2529
+Fresno, CA	Los Angeles, CA	209
+Fresno, CA	Louisville, KY	0
+Fresno, CA	Monterey, CA	38
+Fresno, CA	Oakland, CA	0
+Fresno, CA	Ontario, CA	0
+Fresno, CA	Phoenix, AZ	6962
+Fresno, CA	Portland, OR	3679
+Fresno, CA	Salt Lake City, UT	7723
+Fresno, CA	San Antonio, TX	144
+Fresno, CA	San Francisco, CA	4653
+Fresno, CA	Santa Barbara, CA	0
+Fresno, CA	Seattle, WA	3912
+Fresno, CA	Twin Falls, ID	46
+Fresno, CA	Wendover, UT	142
+Grand Junction, CO	Los Angeles, CA	3873
+Grand Junction, CO	Oakland, CA	5
+Hilo, HI	Los Angeles, CA	4285
+Hilo, HI	San Francisco, CA	698
+Honolulu, HI	Fairfield, CA	0
+Honolulu, HI	Long Beach, CA	0
+Honolulu, HI	Los Angeles, CA	69034
+Honolulu, HI	Oakland, CA	14443
+Honolulu, HI	Ontario, CA	0
+Honolulu, HI	Sacramento, CA	20639
+Honolulu, HI	San Diego, CA	11194
+Honolulu, HI	San Francisco, CA	72489
+Honolulu, HI	Santa Ana, CA	317
+Houston, TX	Bakersfield, CA	2469
+Houston, TX	Burbank, CA	1
+Houston, TX	Los Angeles, CA	66761
+Houston, TX	Oakland, CA	6542
+Houston, TX	Ontario, CA	15776
+Houston, TX	Sacramento, CA	16278
+Houston, TX	San Diego, CA	16874
+Houston, TX	San Francisco, CA	57685
+Houston, TX	San Jose, CA	16456
+Houston, TX	Santa Ana, CA	37533
+Idaho Falls, ID	Long Beach, CA	579
+Idaho Falls, ID	San Francisco, CA	643
+Indianapolis, IN	Los Angeles, CA	3081
+Indianapolis, IN	Oakland, CA	0
+Indianapolis, IN	Ontario, CA	0
+Indianapolis, IN	Sacramento, CA	0
+Indianapolis, IN	San Francisco, CA	159
+Indianapolis, IN	San Jose, CA	0
+Inyokern, CA	Los Angeles, CA	1324
+Jackson, WY	Los Angeles, CA	2626
+Kahului, HI	Los Angeles, CA	28821
+Kahului, HI	Oakland, CA	8147
+Kahului, HI	San Diego, CA	8799
+Kahului, HI	San Francisco, CA	7972
+Kahului, HI	San Jose, CA	4033
+Kalispell, MT	Burbank, CA	3
+Kansas City, MO	Los Angeles, CA	19955
+Kansas City, MO	Oakland, CA	2011
+Kansas City, MO	San Diego, CA	10748
+Kansas City, MO	San Francisco, CA	3299
+Kansas City, MO	San Jose, CA	86
+Klamath Falls, OR	Fresno, CA	0
+Kona, HI	Burbank, CA	16
+Kona, HI	Long Beach, CA	0
+Kona, HI	Los Angeles, CA	19877
+Kona, HI	Oakland, CA	1998
+Kona, HI	San Diego, CA	0
+Kona, HI	San Francisco, CA	7197
+Kona, HI	San Jose, CA	2114
+Lake Tahoe, CA	Burbank, CA	0
+Laredo, TX	Ontario, CA	0
+Laredo, TX	San Diego, CA	0
+Las Vegas, NV	Burbank, CA	95629
+Las Vegas, NV	Camarillo, CA	4
+Las Vegas, NV	Fresno, CA	7322
+Las Vegas, NV	Long Beach, CA	2183
+Las Vegas, NV	Los Angeles, CA	147575
+Las Vegas, NV	Merced, CA	498
+Las Vegas, NV	Oakland, CA	26695
+Las Vegas, NV	Ontario, CA	15797
+Las Vegas, NV	Sacramento, CA	80012
+Las Vegas, NV	San Diego, CA	48080
+Las Vegas, NV	San Francisco, CA	95038
+Las Vegas, NV	San Jose, CA	11185
+Las Vegas, NV	Santa Barbara, CA	1
+Las Vegas, NV	Santa Maria, CA	1746
+Las Vegas, NV	Santa Monica, CA	10
+Las Vegas, NV	Santa Rosa, CA	1694
+Las Vegas, NV	Stockton, CA	5162
+Lewiston, ID	San Jose, CA	108
+Lihue, HI	Los Angeles, CA	26515
+Lihue, HI	San Francisco, CA	4814
+Lihue, HI	San Jose, CA	5288
+Long Beach, CA	Bellingham, WA	2456
+Long Beach, CA	Boston, MA	2581
+Long Beach, CA	Bullhead City, AZ	177
+Long Beach, CA	Burbank, CA	0
+Long Beach, CA	Colorado Springs, CO	2308
+Long Beach, CA	Denver, CO	1234
+Long Beach, CA	Fort Lauderdale, FL	3066
+Long Beach, CA	Idaho Falls, ID	563
+Long Beach, CA	Las Vegas, NV	1753
+Long Beach, CA	Los Angeles, CA	28
+Long Beach, CA	Louisville, KY	0
+Long Beach, CA	Memphis, TN	0
+Long Beach, CA	New York, NY	7430
+Long Beach, CA	Oakland, CA	9995
+Long Beach, CA	Phoenix, AZ	9791
+Long Beach, CA	Pittsburgh, PA	145
+Long Beach, CA	Portland, OR	27390
+Long Beach, CA	Salt Lake City, UT	11457
+Long Beach, CA	San Diego, CA	73
+Long Beach, CA	Santa Barbara, CA	0
+Long Beach, CA	Seattle, WA	11044
+Long Beach, CA	Teterboro, NJ	6
+Los Angeles, CA	Abilene, TX	139
+Los Angeles, CA	Albuquerque, NM	12744
+Los Angeles, CA	Anchorage, AK	316
+Los Angeles, CA	Aspen, CO	7381
+Los Angeles, CA	Atlanta, GA	86099
+Los Angeles, CA	Austin, TX	15425
+Los Angeles, CA	Bakersfield, CA	2556
+Los Angeles, CA	Baltimore, MD	20472
+Los Angeles, CA	Billings, MT	1223
+Los Angeles, CA	Boise, ID	7486
+Los Angeles, CA	Boston, MA	24223
+Los Angeles, CA	Bozeman, MT	111
+Los Angeles, CA	Buffalo, NY	175
+Los Angeles, CA	Burbank, CA	0
+Los Angeles, CA	Carlsbad, CA	7232
+Los Angeles, CA	Charlotte, NC	29130
+Los Angeles, CA	Chicago, IL	117341
+Los Angeles, CA	Cleveland, OH	3497
+Los Angeles, CA	Colorado Springs, CO	5145
+Los Angeles, CA	Dallas/Fort Worth, TX	121558
+Los Angeles, CA	Denver, CO	101171
+Los Angeles, CA	Des Moines, IA	849
+Los Angeles, CA	Detroit, MI	44494
+Los Angeles, CA	Duluth, MN	170
+Los Angeles, CA	El Paso, TX	14492
+Los Angeles, CA	Eugene, OR	17
+Los Angeles, CA	Fargo, ND	1272
+Los Angeles, CA	Fayetteville, AR	1310
+Los Angeles, CA	Fort Dix, NJ	0
+Los Angeles, CA	Fort Lauderdale, FL	30864
+Los Angeles, CA	Fresno, CA	9311
+Los Angeles, CA	Grand Junction, CO	887
+Los Angeles, CA	Gulfport/Biloxi, MS	93
+Los Angeles, CA	Hilo, HI	3579
+Los Angeles, CA	Honolulu, HI	103431
+Los Angeles, CA	Houston, TX	134499
+Los Angeles, CA	Indianapolis, IN	3502
+Los Angeles, CA	Inyokern, CA	1300
+Los Angeles, CA	Jackson, WY	64
+Los Angeles, CA	Kahului, HI	26818
+Los Angeles, CA	Kansas City, MO	39043
+Los Angeles, CA	Kona, HI	4200
+Los Angeles, CA	Lake Tahoe, CA	2
+Los Angeles, CA	Las Vegas, NV	148662
+Los Angeles, CA	Lihue, HI	26411
+Los Angeles, CA	Louisville, KY	0
+Los Angeles, CA	Lubbock, TX	204
+Los Angeles, CA	Madison, WI	330
+Los Angeles, CA	Mammoth Lakes, CA	5151
+Los Angeles, CA	Medford, OR	6361
+Los Angeles, CA	Memphis, TN	14892
+Los Angeles, CA	Miami, FL	43608
+Los Angeles, CA	Milwaukee, WI	121
+Los Angeles, CA	Minneapolis, MN	16046
+Los Angeles, CA	Missoula, MT	2425
+Los Angeles, CA	Moline, IL	0
+Los Angeles, CA	Monterey, CA	5674
+Los Angeles, CA	Montrose/Delta, CO	283
+Los Angeles, CA	Nashville, TN	25956
+Los Angeles, CA	New Orleans, LA	6435
+Los Angeles, CA	New York, NY	134623
+Los Angeles, CA	Newark, NJ	29261
+Los Angeles, CA	Oakland, CA	34326
+Los Angeles, CA	Oklahoma City, OK	2822
+Los Angeles, CA	Omaha, NE	2252
+Los Angeles, CA	Orlando, FL	25079
+Los Angeles, CA	Palm Springs, CA	6893
+Los Angeles, CA	Philadelphia, PA	41644
+Los Angeles, CA	Phoenix, AZ	28412
+Los Angeles, CA	Pittsburgh, PA	862
+Los Angeles, CA	Portland, OR	32021
+Los Angeles, CA	Prescott, AZ	910
+Los Angeles, CA	Raleigh/Durham, NC	2571
+Los Angeles, CA	Reno, NV	24240
+Los Angeles, CA	Rockford, IL	0
+Los Angeles, CA	Sacramento, CA	25154
+Los Angeles, CA	Salt Lake City, UT	35845
+Los Angeles, CA	San Antonio, TX	13676
+Los Angeles, CA	San Diego, CA	31513
+Los Angeles, CA	San Francisco, CA	122637
+Los Angeles, CA	San Jose, CA	31978
+Los Angeles, CA	San Juan, PR	5244
+Los Angeles, CA	San Luis Obispo, CA	7323
+Los Angeles, CA	Santa Ana, CA	723
+Los Angeles, CA	Santa Barbara, CA	5197
+Los Angeles, CA	Santa Maria, CA	3410
+Los Angeles, CA	Savannah, GA	172
+Los Angeles, CA	Seattle, WA	84472
+Los Angeles, CA	Sioux Falls, SD	1101
+Los Angeles, CA	St. George, UT	372
+Los Angeles, CA	St. Louis, MO	36530
+Los Angeles, CA	Sun Valley/Hailey/Ketchum, ID	1015
+Los Angeles, CA	Syracuse, NY	147
+Los Angeles, CA	Tampa, FL	4109
+Los Angeles, CA	Toledo, OH	0
+Los Angeles, CA	Tucson, AZ	19218
+Los Angeles, CA	Tulsa, OK	1361
+Los Angeles, CA	Washington, DC	52419
+Los Angeles, CA	West Palm Beach/Palm Beach, FL	188
+Los Angeles, CA	Wichita Falls, TX	249
+Los Angeles, CA	Wichita, KS	1029
+Los Angeles, CA	Yuma, AZ	1877
+Louisville, KY	Burbank, CA	0
+Louisville, KY	Long Beach, CA	0
+Louisville, KY	Los Angeles, CA	0
+Louisville, KY	Oakland, CA	0
+Louisville, KY	Ontario, CA	0
+Louisville, KY	Sacramento, CA	0
+Louisville, KY	San Diego, CA	0
+Louisville, KY	San Jose, CA	0
+Louisville, KY	Santa Ana, CA	0
+Madison, WI	Los Angeles, CA	162
+Mammoth Lakes, CA	San Francisco, CA	701
+Mammoth Lakes, CA	San Jose, CA	1419
+Marquette, MI	San Jose, CA	2
+Medford, OR	Crescent City, CA	0
+Medford, OR	Los Angeles, CA	7007
+Medford, OR	Monterey, CA	27
+Medford, OR	Sacramento, CA	19
+Medford, OR	San Francisco, CA	12562
+Medfra, AK	Burbank, CA	0
+Memphis, TN	Burbank, CA	0
+Memphis, TN	Fresno, CA	0
+Memphis, TN	Long Beach, CA	0
+Memphis, TN	Los Angeles, CA	15189
+Memphis, TN	Oakland, CA	0
+Memphis, TN	Ontario, CA	0
+Memphis, TN	Sacramento, CA	0
+Memphis, TN	San Francisco, CA	0
+Memphis, TN	San Jose, CA	0
+Memphis, TN	Santa Ana, CA	0
+Merced, CA	Las Vegas, NV	448
+Merced, CA	Los Angeles, CA	6
+Miami, FL	Los Angeles, CA	27010
+Miami, FL	Oakland, CA	0
+Miami, FL	San Francisco, CA	56650
+Milwaukee, WI	Los Angeles, CA	22210
+Milwaukee, WI	San Diego, CA	392
+Minneapolis, MN	Burbank, CA	7
+Minneapolis, MN	Los Angeles, CA	51295
+Minneapolis, MN	Oakland, CA	0
+Minneapolis, MN	Palm Springs, CA	661
+Minneapolis, MN	Sacramento, CA	4580
+Minneapolis, MN	San Diego, CA	21040
+Minneapolis, MN	San Francisco, CA	28925
+Minneapolis, MN	San Jose, CA	15236
+Minneapolis, MN	Santa Ana, CA	164
+Minneapolis, MN	Van Nuys, CA	2
+Minneapolis/St. Paul, MN	Santa Barbara, CA	3
+Missoula, MT	Burbank, CA	4
+Missoula, MT	San Francisco, CA	38
+Monterey, CA	Bullhead City, AZ	256
+Monterey, CA	Denver, CO	1610
+Monterey, CA	Fresno, CA	44
+Monterey, CA	Grand Junction, CO	44
+Monterey, CA	Las Vegas, NV	1455
+Monterey, CA	Oakland, CA	0
+Monterey, CA	Phoenix, AZ	4848
+Monterey, CA	Sacramento, CA	0
+Monterey, CA	San Francisco, CA	3252
+Monterey, CA	San Jose, CA	476
+Monterey, CA	Stockton, CA	126
+Montrose/Delta, CO	Los Angeles, CA	95
+Murrieta/Temecula, CA	Kingman, AZ	0
+Napa, CA	Burbank, CA	1
+Nashville, TN	Long Beach, CA	157
+Nashville, TN	Los Angeles, CA	11278
+Nashville, TN	San Diego, CA	18761
+Nashville, TN	San Francisco, CA	12
+New Orleans, LA	Burbank, CA	4
+New Orleans, LA	Los Angeles, CA	11303
+New Orleans, LA	San Francisco, CA	2034
+New York, NY	Burbank, CA	13547
+New York, NY	Fairfield, CA	0
+New York, NY	Long Beach, CA	20796
+New York, NY	Los Angeles, CA	77178
+New York, NY	Oakland, CA	3958
+New York, NY	Ontario, CA	131
+New York, NY	Sacramento, CA	2426
+New York, NY	San Diego, CA	39516
+New York, NY	San Francisco, CA	50450
+New York, NY	San Jose, CA	161
+Newark, NJ	Burbank, CA	0
+Newark, NJ	Los Angeles, CA	21332
+Newark, NJ	Oakland, CA	0
+Newark, NJ	San Diego, CA	28303
+Newark, NJ	San Francisco, CA	33286
+Newark, NJ	Santa Ana, CA	15955
+North Bend/Coos Bay, OR	San Francisco, CA	3822
+Oakland, CA	Albany, NY	42
+Oakland, CA	Albuquerque, NM	7614
+Oakland, CA	Anchorage, AK	0
+Oakland, CA	Appleton, WI	142
+Oakland, CA	Atlanta, GA	0
+Oakland, CA	Austin, TX	5936
+Oakland, CA	Bakersfield, CA	2768
+Oakland, CA	Bedford, MA	49
+Oakland, CA	Boise, ID	11027
+Oakland, CA	Burbank, CA	146
+Oakland, CA	Chicago, IL	363
+Oakland, CA	Cleveland, OH	137
+Oakland, CA	Cloverdale, CA	0
+Oakland, CA	Columbia, SC	0
+Oakland, CA	Dallas/Fort Worth, TX	0
+Oakland, CA	Denver, CO	39124
+Oakland, CA	Detroit, MI	51
+Oakland, CA	Eugene, OR	2705
+Oakland, CA	Fresno, CA	0
+Oakland, CA	Hillsboro, OR	5
+Oakland, CA	Honolulu, HI	0
+Oakland, CA	Houston, TX	7251
+Oakland, CA	Indianapolis, IN	133
+Oakland, CA	Kahului, HI	6952
+Oakland, CA	Kansas City, MO	9172
+Oakland, CA	Kona, HI	3665
+Oakland, CA	Las Vegas, NV	66546
+Oakland, CA	Lihue, HI	5009
+Oakland, CA	Long Beach, CA	23672
+Oakland, CA	Los Angeles, CA	20201
+Oakland, CA	Louisville, KY	0
+Oakland, CA	Memphis, TN	0
+Oakland, CA	Miami, FL	16
+Oakland, CA	Milwaukee, WI	49
+Oakland, CA	Minneapolis, MN	141
+Oakland, CA	Monterey, CA	0
+Oakland, CA	Napa, CA	0
+Oakland, CA	New York, NY	0
+Oakland, CA	Newark, NJ	0
+Oakland, CA	Oakland, CA	0
+Oakland, CA	Omaha, NE	0
+Oakland, CA	Ontario, CA	10708
+Oakland, CA	Palm Springs, CA	46
+Oakland, CA	Philadelphia, PA	0
+Oakland, CA	Phoenix, AZ	34565
+Oakland, CA	Portland, OR	18053
+Oakland, CA	Providence, RI	153
+Oakland, CA	Reno, NV	5355
+Oakland, CA	Sacramento, CA	120
+Oakland, CA	Salina, KS	48
+Oakland, CA	Salt Lake City, UT	44462
+Oakland, CA	San Antonio, TX	294
+Oakland, CA	San Diego, CA	19839
+Oakland, CA	San Francisco, CA	120
+Oakland, CA	San Jose, CA	282
+Oakland, CA	Santa Ana, CA	19832
+Oakland, CA	Santa Rosa, CA	0
+Oakland, CA	Seattle, WA	41043
+Oakland, CA	Spokane, WA	9780
+Oakland, CA	Thermal, CA	0
+Oakland, CA	Tulare, CA	0
+Oakland, CA	Visalia, CA	0
+Oakland, CA	Washington, DC	2114
+Oklahoma City, OK	Los Angeles, CA	2801
+Oklahoma City, OK	Oakland, CA	30
+Omaha, NE	Los Angeles, CA	40
+Omaha, NE	Oakland, CA	40
+Ontario, CA	Anchorage, AK	0
+Ontario, CA	Atlanta, GA	5047
+Ontario, CA	Bakersfield, CA	0
+Ontario, CA	Chicago, IL	3211
+Ontario, CA	Dallas, TX	0
+Ontario, CA	Dallas/Fort Worth, TX	0
+Ontario, CA	Denver, CO	382
+Ontario, CA	Des Moines, IA	0
+Ontario, CA	Honolulu, HI	0
+Ontario, CA	Houston, TX	15473
+Ontario, CA	Indianapolis, IN	0
+Ontario, CA	Inyokern, CA	0
+Ontario, CA	Las Vegas, NV	23259
+Ontario, CA	Lexington, KY	0
+Ontario, CA	Long Beach, CA	39
+Ontario, CA	Los Angeles, CA	640
+Ontario, CA	Louisville, KY	0
+Ontario, CA	Memphis, TN	0
+Ontario, CA	Midland/Odessa, TX	136
+Ontario, CA	New Orleans, LA	0
+Ontario, CA	Oakland, CA	30533
+Ontario, CA	Philadelphia, PA	0
+Ontario, CA	Phoenix, AZ	36144
+Ontario, CA	Portland, OR	3018
+Ontario, CA	Prescott, AZ	115
+Ontario, CA	Rockford, IL	0
+Ontario, CA	Sacramento, CA	10528
+Ontario, CA	Salina, KS	0
+Ontario, CA	Salt Lake City, UT	13223
+Ontario, CA	San Diego, CA	280
+Ontario, CA	San Jose, CA	14238
+Ontario, CA	San Luis Obispo, CA	0
+Ontario, CA	Santa Ana, CA	209
+Ontario, CA	Santa Barbara, CA	50
+Ontario, CA	Santa Maria, CA	0
+Ontario, CA	Seattle, WA	11705
+Ontario, CA	Spokane, WA	0
+Ontario, CA	West Palm Beach/Palm Beach, FL	0
+Orlando, FL	Los Angeles, CA	12880
+Orlando, FL	San Francisco, CA	7142
+Palm Springs, CA	Bellingham, WA	3604
+Palm Springs, CA	Chicago, IL	4945
+Palm Springs, CA	Denver, CO	12753
+Palm Springs, CA	Las Vegas, NV	1855
+Palm Springs, CA	Los Angeles, CA	1394
+Palm Springs, CA	Phoenix, AZ	9463
+Palm Springs, CA	Portland, OR	3221
+Palm Springs, CA	San Francisco, CA	20702
+Palm Springs, CA	San Jose, CA	50
+Palm Springs, CA	Seattle, WA	289
+Palm Springs, CA	Wichita, KS	131
+Pasco/Kennewick/Richland, WA	Los Angeles, CA	2369
+Pasco/Kennewick/Richland, WA	San Francisco, CA	2111
+Peoria, IL	San Diego, CA	0
+Philadelphia, PA	Los Angeles, CA	40559
+Philadelphia, PA	Oakland, CA	0
+Philadelphia, PA	Ontario, CA	0
+Philadelphia, PA	Sacramento, CA	0
+Philadelphia, PA	San Diego, CA	17360
+Philadelphia, PA	San Francisco, CA	29715
+Philadelphia, PA	San Jose, CA	0
+Phoenix, AZ	Bakersfield, CA	3180
+Phoenix, AZ	Burbank, CA	26224
+Phoenix, AZ	Fresno, CA	23135
+Phoenix, AZ	Long Beach, CA	2470
+Phoenix, AZ	Los Angeles, CA	113702
+Phoenix, AZ	Monterey, CA	44
+Phoenix, AZ	Oakland, CA	33474
+Phoenix, AZ	Ontario, CA	78866
+Phoenix, AZ	Palm Springs, CA	8592
+Phoenix, AZ	Sacramento, CA	35863
+Phoenix, AZ	San Diego, CA	102553
+Phoenix, AZ	San Francisco, CA	77506
+Phoenix, AZ	San Jose, CA	40768
+Phoenix, AZ	San Luis Obispo, CA	6189
+Phoenix, AZ	Santa Ana, CA	152889
+Phoenix, AZ	Santa Barbara, CA	6854
+Pittsburgh, PA	Burbank, CA	5
+Pittsburgh, PA	Los Angeles, CA	3092
+Pittsburgh, PA	San Francisco, CA	2981
+Port Hueneme, CA	Seattle, WA	0
+Porterville, CA	Visalia, CA	0
+Portland, OR	Burbank, CA	7644
+Portland, OR	Fresno, CA	3809
+Portland, OR	Long Beach, CA	7390
+Portland, OR	Los Angeles, CA	11606
+Portland, OR	Oakland, CA	33851
+Portland, OR	Ontario, CA	1283
+Portland, OR	Sacramento, CA	48369
+Portland, OR	San Diego, CA	29048
+Portland, OR	San Francisco, CA	37933
+Portland, OR	San Jose, CA	27528
+Portland, OR	Santa Ana, CA	142
+Portland, OR	Santa Rosa, CA	1666
+Provo, UT	Burbank, CA	3
+Raleigh/Durham, NC	Los Angeles, CA	1644
+Red Wing, MN	Burbank, CA	2
+Redding, CA	Arcata/Eureka, CA	27
+Redding, CA	Sacramento, CA	0
+Redding, CA	San Francisco, CA	5684
+Redding, CA	Stockton, CA	77
+Reno, NV	Los Angeles, CA	15439
+Reno, NV	Monterey, CA	125
+Reno, NV	Oakland, CA	14295
+Reno, NV	Ontario, CA	0
+Reno, NV	Sacramento, CA	0
+Reno, NV	San Diego, CA	7305
+Reno, NV	San Francisco, CA	13101
+Reno, NV	San Jose, CA	11616
+Reno, NV	Santa Ana, CA	38
+Riverside, CA	Honolulu, HI	0
+Rochester, MN	Burbank, CA	4
+Rockford, IL	Ontario, CA	0
+Rockford, IL	Sacramento, CA	0
+Sacramento, CA	Arcata/Eureka, CA	0
+Sacramento, CA	Atlanta, GA	13991
+Sacramento, CA	Bedford, MA	35
+Sacramento, CA	Birmingham, AL	160
+Sacramento, CA	Boise, ID	6771
+Sacramento, CA	Burbank, CA	196
+Sacramento, CA	Charlotte, NC	6077
+Sacramento, CA	Chicago, IL	24333
+Sacramento, CA	Colorado Springs, CO	50
+Sacramento, CA	Dallas/Fort Worth, TX	147
+Sacramento, CA	Denver, CO	41103
+Sacramento, CA	Des Moines, IA	0
+Sacramento, CA	Detroit, MI	933
+Sacramento, CA	El Paso, TX	140
+Sacramento, CA	Eureka, CA	0
+Sacramento, CA	Harrisburg, PA	119
+Sacramento, CA	Honolulu, HI	7124
+Sacramento, CA	Houston, TX	11869
+Sacramento, CA	Kahului, HI	13031
+Sacramento, CA	Kansas City, MO	119
+Sacramento, CA	Las Vegas, NV	44602
+Sacramento, CA	Long Beach, CA	15803
+Sacramento, CA	Los Angeles, CA	46913
+Sacramento, CA	Louisville, KY	0
+Sacramento, CA	Memphis, TN	0
+Sacramento, CA	Minneapolis, MN	7110
+Sacramento, CA	New York, NY	2527
+Sacramento, CA	Oakland, CA	0
+Sacramento, CA	Omaha, NE	181
+Sacramento, CA	Ontario, CA	43490
+Sacramento, CA	Palm Springs, CA	114
+Sacramento, CA	Phoenix, AZ	49788
+Sacramento, CA	Portland, OR	30442
+Sacramento, CA	Reno, NV	94
+Sacramento, CA	Salt Lake City, UT	21189
+Sacramento, CA	San Antonio, TX	121
+Sacramento, CA	San Diego, CA	25658
+Sacramento, CA	San Francisco, CA	130
+Sacramento, CA	San Jose, CA	1372
+Sacramento, CA	Santa Ana, CA	16558
+Sacramento, CA	Seattle, WA	21830
+Sacramento, CA	Spokane, WA	113
+Sacramento, CA	Stockton, CA	74
+Sacramento, CA	Tucson, AZ	5
+Sacramento, CA	Ukiah, CA	0
+Sacramento, CA	Washington, DC	457
+Salina, KS	Burbank, CA	5
+Salt Lake City, UT	Burbank, CA	7724
+Salt Lake City, UT	Fresno, CA	13745
+Salt Lake City, UT	Long Beach, CA	44587
+Salt Lake City, UT	Los Angeles, CA	35862
+Salt Lake City, UT	Oakland, CA	8579
+Salt Lake City, UT	Ontario, CA	5091
+Salt Lake City, UT	Sacramento, CA	19025
+Salt Lake City, UT	San Diego, CA	23740
+Salt Lake City, UT	San Francisco, CA	22748
+Salt Lake City, UT	San Jose, CA	3717
+Salt Lake City, UT	Santa Ana, CA	13333
+San Antonio, TX	Los Angeles, CA	4871
+San Antonio, TX	Sacramento, CA	15
+San Antonio, TX	San Diego, CA	83
+San Antonio, TX	San Francisco, CA	4412
+San Diego, CA	Abilene, TX	135
+San Diego, CA	Albuquerque, NM	155
+San Diego, CA	Atlanta, GA	46117
+San Diego, CA	Austin, TX	2056
+San Diego, CA	Baltimore, MD	7477
+San Diego, CA	Bellingham, WA	1484
+San Diego, CA	Boston, MA	15477
+San Diego, CA	Burbank, CA	9
+San Diego, CA	Charlotte, NC	9341
+San Diego, CA	Chicago, IL	10759
+San Diego, CA	Cincinnati, OH	0
+San Diego, CA	Dallas/Fort Worth, TX	37680
+San Diego, CA	Denver, CO	30033
+San Diego, CA	Detroit, MI	7515
+San Diego, CA	El Centro, CA	0
+San Diego, CA	El Paso, TX	235
+San Diego, CA	Fresno, CA	0
+San Diego, CA	Honolulu, HI	2002
+San Diego, CA	Houston, TX	17061
+San Diego, CA	Indianapolis, IN	0
+San Diego, CA	Kansas City, MO	3879
+San Diego, CA	Las Vegas, NV	13054
+San Diego, CA	Long Beach, CA	62
+San Diego, CA	Los Angeles, CA	70161
+San Diego, CA	Louisville, KY	127
+San Diego, CA	Memphis, TN	0
+San Diego, CA	Miami, FL	15
+San Diego, CA	Midland/Odessa, TX	139
+San Diego, CA	Milwaukee, WI	2344
+San Diego, CA	Minneapolis, MN	25232
+San Diego, CA	Nashville, TN	4159
+San Diego, CA	New York, NY	17233
+San Diego, CA	Newark, NJ	15216
+San Diego, CA	Oakland, CA	30190
+San Diego, CA	Omaha, NE	181
+San Diego, CA	Phoenix, AZ	42778
+San Diego, CA	Portland, OR	7584
+San Diego, CA	Reno, NV	8277
+San Diego, CA	Sacramento, CA	63664
+San Diego, CA	Salt Lake City, UT	14129
+San Diego, CA	San Antonio, TX	11498
+San Diego, CA	San Francisco, CA	141108
+San Diego, CA	San Jose, CA	48765
+San Diego, CA	Seattle, WA	46691
+San Diego, CA	Tucson, AZ	17591
+San Diego, CA	Washington, DC	31214
+San Francisco, CA	Albany, NY	105
+San Francisco, CA	Albuquerque, NM	3837
+San Francisco, CA	Arcata/Eureka, CA	4514
+San Francisco, CA	Aspen, CO	2711
+San Francisco, CA	Atlanta, GA	34327
+San Francisco, CA	Austin, TX	16284
+San Francisco, CA	Baltimore, MD	8340
+San Francisco, CA	Bend/Redmond, OR	6842
+San Francisco, CA	Boise, ID	4846
+San Francisco, CA	Boston, MA	15535
+San Francisco, CA	Burbank, CA	14918
+San Francisco, CA	Camp Springs, MD	41
+San Francisco, CA	Charlotte, NC	23721
+San Francisco, CA	Chicago, IL	118547
+San Francisco, CA	Chico, CA	1772
+San Francisco, CA	Cincinnati, OH	6677
+San Francisco, CA	Cleveland, OH	12351
+San Francisco, CA	Colorado Springs, CO	3685
+San Francisco, CA	Crescent City, CA	738
+San Francisco, CA	Dallas/Fort Worth, TX	60843
+San Francisco, CA	Denver, CO	55290
+San Francisco, CA	Des Moines, IA	278
+San Francisco, CA	Detroit, MI	17826
+San Francisco, CA	El Paso, TX	148
+San Francisco, CA	Eugene, OR	18204
+San Francisco, CA	Fort Lauderdale, FL	3753
+San Francisco, CA	Fresno, CA	2812
+San Francisco, CA	Honolulu, HI	46591
+San Francisco, CA	Houston, TX	44259
+San Francisco, CA	Idaho Falls, ID	1527
+San Francisco, CA	Kahului, HI	29989
+San Francisco, CA	Kansas City, MO	2072
+San Francisco, CA	Kona, HI	4868
+San Francisco, CA	Las Vegas, NV	70347
+San Francisco, CA	Lihue, HI	8642
+San Francisco, CA	Long Beach, CA	22506
+San Francisco, CA	Los Angeles, CA	225581
+San Francisco, CA	Medford, OR	7437
+San Francisco, CA	Memphis, TN	0
+San Francisco, CA	Milwaukee, WI	12591
+San Francisco, CA	Minneapolis, MN	47174
+San Francisco, CA	Modesto, CA	1538
+San Francisco, CA	Monterey, CA	3102
+San Francisco, CA	Nashville, TN	147
+San Francisco, CA	New York, NY	103792
+San Francisco, CA	Newark, NJ	19360
+San Francisco, CA	North Bend/Coos Bay, OR	1101
+San Francisco, CA	Oklahoma City, OK	374
+San Francisco, CA	Ontario, CA	18367
+San Francisco, CA	Orlando, FL	2023
+San Francisco, CA	Palm Springs, CA	8825
+San Francisco, CA	Pasco/Kennewick/Richland, WA	2313
+San Francisco, CA	Philadelphia, PA	8531
+San Francisco, CA	Phoenix, AZ	47771
+San Francisco, CA	Pittsburgh, PA	10712
+San Francisco, CA	Portland, OR	62263
+San Francisco, CA	Redding, CA	2885
+San Francisco, CA	Reno, NV	12007
+San Francisco, CA	Rochester, NY	143
+San Francisco, CA	Sacramento, CA	4148
+San Francisco, CA	Salt Lake City, UT	11655
+San Francisco, CA	San Antonio, TX	1650
+San Francisco, CA	San Diego, CA	79310
+San Francisco, CA	San Luis Obispo, CA	2909
+San Francisco, CA	Santa Ana, CA	29638
+San Francisco, CA	Santa Barbara, CA	44
+San Francisco, CA	Santa Monica, CA	6
+San Francisco, CA	Seattle, WA	82815
+San Francisco, CA	Shenandoah, IA	2
+San Francisco, CA	Spokane, WA	2511
+San Francisco, CA	St. Louis, MO	4193
+San Francisco, CA	Teterboro, NJ	2
+San Francisco, CA	Van Nuys, CA	15
+San Francisco, CA	Washington, DC	53281
+San Jose, CA	Atlanta, GA	117
+San Jose, CA	Austin, TX	7758
+San Jose, CA	Bend/Redmond, OR	0
+San Jose, CA	Boise, ID	2712
+San Jose, CA	Broomfield, CO	3
+San Jose, CA	Bullhead City, AZ	124
+San Jose, CA	Burbank, CA	37655
+San Jose, CA	Chicago, IL	7816
+San Jose, CA	Cincinnati, OH	148
+San Jose, CA	Dallas/Fort Worth, TX	18448
+San Jose, CA	Denver, CO	20712
+San Jose, CA	Honolulu, HI	7154
+San Jose, CA	Houston, TX	16739
+San Jose, CA	Indianapolis, IN	0
+San Jose, CA	Kahului, HI	4114
+San Jose, CA	Kansas City, MO	0
+San Jose, CA	Las Vegas, NV	32091
+San Jose, CA	Lihue, HI	1827
+San Jose, CA	Los Angeles, CA	32360
+San Jose, CA	Louisville, KY	0
+San Jose, CA	Memphis, TN	0
+San Jose, CA	Minneapolis, MN	157
+San Jose, CA	Monterey, CA	88
+San Jose, CA	Nashville, TN	46
+San Jose, CA	New York, NY	6255
+San Jose, CA	Oakland, CA	114
+San Jose, CA	Ontario, CA	6146
+San Jose, CA	Phoenix, AZ	40713
+San Jose, CA	Portland, OR	48568
+San Jose, CA	Reno, NV	2336
+San Jose, CA	Sacramento, CA	2460
+San Jose, CA	Salt Lake City, UT	14504
+San Jose, CA	San Diego, CA	13791
+San Jose, CA	Santa Ana, CA	21187
+San Jose, CA	Santa Barbara, CA	43
+San Jose, CA	Seattle, WA	24912
+San Jose, CA	Spokane, WA	107
+San Jose, CA	St. Louis, MO	0
+San Jose, CA	Toledo, OH	0
+San Jose, CA	Victorville, CA	0
+San Juan, PR	Los Angeles, CA	2956
+San Luis Obispo, CA	Los Angeles, CA	3879
+San Luis Obispo, CA	Monterey, CA	0
+San Luis Obispo, CA	Phoenix, AZ	2596
+San Luis Obispo, CA	San Francisco, CA	5324
+San Luis Obispo, CA	San Jose, CA	28
+Santa Ana, CA	Abilene, TX	755
+Santa Ana, CA	Allentown/Bethlehem/Easton, PA	112
+Santa Ana, CA	Atlanta, GA	2212
+Santa Ana, CA	Birmingham, AL	124
+Santa Ana, CA	Burbank, CA	5
+Santa Ana, CA	Chicago, IL	41690
+Santa Ana, CA	Dallas/Fort Worth, TX	34956
+Santa Ana, CA	Denver, CO	48399
+Santa Ana, CA	Grand Junction, CO	24
+Santa Ana, CA	Houston, TX	6524
+Santa Ana, CA	Huntsville, AL	124
+Santa Ana, CA	Las Vegas, NV	19854
+Santa Ana, CA	Los Angeles, CA	159
+Santa Ana, CA	Louisville, KY	0
+Santa Ana, CA	Memphis, TN	0
+Santa Ana, CA	Minneapolis, MN	117
+Santa Ana, CA	Newark, NJ	16161
+Santa Ana, CA	Oakland, CA	22
+Santa Ana, CA	Oklahoma City, OK	144
+Santa Ana, CA	Omaha, NE	135
+Santa Ana, CA	Ontario, CA	79
+Santa Ana, CA	Parker, AZ	2
+Santa Ana, CA	Phoenix, AZ	26794
+Santa Ana, CA	Portland, OR	11941
+Santa Ana, CA	Sacramento, CA	35738
+Santa Ana, CA	Salt Lake City, UT	1695
+Santa Ana, CA	San Francisco, CA	31180
+Santa Ana, CA	San Jose, CA	21097
+Santa Ana, CA	Seattle, WA	2090
+Santa Barbara, CA	Burbank, CA	0
+Santa Barbara, CA	Denver, CO	16498
+Santa Barbara, CA	Fargo, ND	2
+Santa Barbara, CA	Los Angeles, CA	14730
+Santa Barbara, CA	Minneapolis/St. Paul, MN	6
+Santa Barbara, CA	Ontario, CA	0
+Santa Barbara, CA	Phoenix, AZ	11513
+Santa Barbara, CA	San Francisco, CA	12314
+Santa Barbara, CA	San Luis Obispo, CA	0
+Santa Barbara, CA	Seattle, WA	7291
+Santa Fe, NM	Los Angeles, CA	1096
+Santa Maria, CA	Atlanta, GA	0
+Santa Maria, CA	Bakersfield, CA	121
+Santa Maria, CA	Burbank, CA	40
+Santa Maria, CA	Las Vegas, NV	1582
+Santa Maria, CA	Los Angeles, CA	3217
+Santa Maria, CA	Minneapolis, MN	149
+Santa Maria, CA	Ontario, CA	0
+Santa Monica, CA	Burbank, CA	0
+Santa Monica, CA	Oakland, CA	1
+Santa Monica, CA	Teterboro, NJ	7
+Santa Rosa, CA	Bend/Redmond, OR	74
+Santa Rosa, CA	Las Vegas, NV	8823
+Santa Rosa, CA	Los Angeles, CA	7771
+Santa Rosa, CA	Portland, OR	2135
+Santa Rosa, CA	Seattle, WA	2193
+Seattle, WA	Burbank, CA	31500
+Seattle, WA	Fresno, CA	11774
+Seattle, WA	Long Beach, CA	21062
+Seattle, WA	Los Angeles, CA	114863
+Seattle, WA	Oakland, CA	38811
+Seattle, WA	Ontario, CA	17507
+Seattle, WA	Palm Springs, CA	10298
+Seattle, WA	Sacramento, CA	67071
+Seattle, WA	San Diego, CA	67475
+Seattle, WA	San Francisco, CA	69037
+Seattle, WA	San Jose, CA	23717
+Seattle, WA	Santa Ana, CA	3611
+Seattle, WA	Santa Barbara, CA	4831
+Seattle, WA	Santa Rosa, CA	3570
+Shreveport, LA	Ontario, CA	0
+South Bend, IN	San Francisco, CA	149
+Spokane, WA	Oakland, CA	4843
+Spokane, WA	Ontario, CA	0
+Spokane, WA	San Francisco, CA	1676
+Spokane, WA	San Jose, CA	143
+St. George, UT	Los Angeles, CA	376
+St. Louis, MO	Los Angeles, CA	11543
+St. Louis, MO	Oakland, CA	0
+St. Louis, MO	San Diego, CA	3942
+St. Louis, MO	San Francisco, CA	1881
+Stockton, CA	Las Vegas, NV	9670
+Stockton, CA	Palm Springs, CA	156
+Sun Valley/Hailey/Ketchum, ID	Burbank, CA	7
+Sun Valley/Hailey/Ketchum, ID	Los Angeles, CA	1313
+Sun Valley/Hailey/Ketchum, ID	Santa Monica, CA	5
+Tacoma, WA	Victorville, CA	105
+Tampa, FL	Los Angeles, CA	562
+Teterboro, NJ	Burbank, CA	38
+Teterboro, NJ	Carlsbad, CA	5
+Teterboro, NJ	Santa Ana, CA	2
+Teterboro, NJ	Santa Barbara, CA	5
+Teterboro, NJ	Santa Monica, CA	1
+Thermal, CA	Burbank, CA	11
+Thermal, CA	Oakland, CA	7
+Tin City, AK	Los Angeles, CA	2
+Toledo, OH	Los Angeles, CA	0
+Trenton, NJ	San Francisco, CA	1
+Tucson, AZ	Burbank, CA	3
+Tucson, AZ	Los Angeles, CA	29883
+Tucson, AZ	San Diego, CA	4261
+Tucson, AZ	San Francisco, CA	3722
+Tucson, AZ	San Jose, CA	2
+Tulsa, OK	Los Angeles, CA	134
+Ukiah, CA	Sacramento, CA	0
+Valparaiso, FL	Los Angeles, CA	301
+Van Nuys, CA	Bozeman, MT	7
+Van Nuys, CA	Burbank, CA	0
+Van Nuys, CA	Dallas, TX	6
+Van Nuys, CA	Nashville, TN	11
+Van Nuys, CA	Teterboro, NJ	5
+Van Nuys, CA	Washington, DC	5
+Visalia, CA	Las Vegas, NV	7
+Visalia, CA	Los Angeles, CA	318
+Visalia, CA	Merced, CA	337
+Visalia, CA	Oakland, CA	0
+Visalia, CA	Ontario, CA	154
+Washington, DC	Los Angeles, CA	80104
+Washington, DC	Sacramento, CA	6853
+Washington, DC	San Diego, CA	13376
+Washington, DC	San Francisco, CA	86591
+Wendover, UT	Modesto, CA	145
+Wendover, UT	Redding, CA	141
+Wichita, KS	Los Angeles, CA	2005
+Yuma, AZ	El Centro, CA	20
+Yuma, AZ	Los Angeles, CA	1855
