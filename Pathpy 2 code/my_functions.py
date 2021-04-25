@@ -1,10 +1,14 @@
-# just some useful code to displays matrices nicer for looking at this
-# https://gist.github.com/braingineer/d801735dac07ff3ac4d746e1f218ab75
+
+
 import numpy as np
 import pathpy as pp
-import scipy
+import scipy as sp
+from collections import defaultdict # think these two are used to iterate through dicts
+from collections.abc import Iterable
 
 def matprint(mat, fmt="g"):
+    # just some useful code to displays matrices nicer for looking at this
+    # https://gist.github.com/braingineer/d801735dac07ff3ac4d746e1f218ab75
     col_maxes = [max([len(("{:"+fmt+"}").format(x)) for x in col]) for col in mat.T]
     for x in mat:
         for i, y in enumerate(x):
@@ -26,8 +30,49 @@ def make_connected(net):
     for node in hanging_nodes : net.add_edge(node,np.random.choice(nodes_list))
     return net
 
+def transition_mat(net,method="smart",alpha=0.85):
+    '''modified from pathpy pagerank code, transition matrix with teleportation
+    this will slow down computation as matrices will no longer be sparse'''
+    
+    N = net.ncount()
+    I = sp.sparse.identity(N)
+    A = net.adjacency_matrix()
+
+    # row sums are out-degrees for adjacency matrix
+    row_sums = np.array(A.sum(axis=1)).flatten()
+
+    # replace non-zero entries x by 1/x
+    row_sums[row_sums != 0] = 1.0 / row_sums[row_sums != 0]
+
+    # indices of zero entries in row_sums
+    b = list(np.where(row_sums != 0)[0])
+    d = list(np.where(row_sums == 0)[0])
+
+    # create sparse matrix with row_sums as diagonal elements
+    Dinv = sp.sparse.spdiags(row_sums.T, 0, A.shape[0], A.shape[1],
+                               format='csr')
+
+    # with this, we have divided elements in non-zero rows in A by 1 over the row sum
+    T = Dinv * A
+    
+    if method == "smart":
+        # calculate preference vector using node in-strengths
+        w_in = np.array(net.node_properties("inweight"))
+        W = sum(w_in)
+        v = w_in/W 
+    elif method == "standard":
+        v = np.ones(N)/N
+    
+    # replace nonzero rows with alpha*T + (1-alpha)*u
+    for ib in b: T[ib,:] = alpha*T[ib,:] + (1-alpha)*v
+        
+    # replace all fully zero rows with v 
+    for id in d: T[id,:] = v
+    
+    return T.todense()
+
 def get_stationary(T):
-    '''enter some transition matrix T'''
+    '''will get the left eigenvector corresponding to eigenvalue 1 and return it normalised'''
     # np.linalg.eig finds right eigenvectors - code from a very helpful stack exchange
     # https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain?fbclid=IwAR0YnlQ7iwr1Ve1kRn-b6CDT0rbq7lDdBM1oD_KwiaEODWPv_-GMwiGBcVw
     evals, evecs = np.linalg.eig(T.T)
@@ -38,6 +83,33 @@ def get_stationary(T):
     stationary = np.squeeze(np.asarray(stationary))
     return stationary
 
+
+def Laplacian_mat(net,alpha=0.85):
+    '''random walk-normalised Laplacian with smart recorded teleportation: fix this to match papers and check applicability'''
+    N = net.ncount()
+    I = np.eye(N)
+    T = transition_mat(net)
+    
+    Lrw = I - T 
+    
+    return Lrw
+
+def my_pagerank(net,alpha=0.85,method = "smart"):
+    '''Needs to be imporoved to be more efficient but does the job right now
+    slightly modified.'''
+    
+    pr = defaultdict(lambda: 0)
+    
+    # adjacency matrix where Aij s.t. i->j
+    I = sp.sparse.identity(net.ncount())
+    A = net.adjacency_matrix()
+    T = transition_mat(net,method=method)
+    
+    pr = get_stationary(T)
+    
+    pr = dict(zip(net.nodes, map(float, pr)))
+    
+    return pr
 #---------------------------------------------------------------------------------------------------------
 # core-periphery stuff
 
@@ -79,22 +151,22 @@ def get_coreness(net,R=1):
     Network must be ergodic and have no hanging nodes.'''
     
     A = net.adjacency_matrix(weighted=True)
-    T_t = net.transition_matrix()
-    T = T_t.transpose()
-    N = np.shape(A)[0] 
+    T_t = transition_mat(net)
+    #T_t = net.transition_matrix()
+    #T = T_t.transpose()
+    N = net.ncount()
     
-    out_degrees = np.array(net.node_properties('outweight'))
-    assert ((out_degrees > 0).all()), "Network must be ergodic."
+    #out_degrees = np.array(net.node_properties('outweight'))
+    #assert ((out_degrees > 0).all()), "Network must be ergodic."
     node_strengths = get_node_strengths(net)
     
-    # get stationary distribution of first-order Markov process - page rank
-    # using pathpy's page rank
-    ps_t = np.array(list(zip(pp.algorithms.centralities.pagerank(net).values())))
+    # get stationary distribution using augmented transition matrix
+    ps_t = np.array(list(my_pagerank(net).values()))
     
     # previously
     #v11 = -1
     #while v11<0:
-    #    _,ps = scipy.sparse.linalg.eigs(T,k=1,which='LM',tol=0) # check L&R
+    #    _,ps = .sparse.linalg.eigs(T,k=1,which='LM',tol=0) # check L&R
     #    ps_t = ps.real
     #    v11 = ps_t[0]
           
