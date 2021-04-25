@@ -14,6 +14,19 @@ def matprint(mat, fmt="g"):
 # Try it! 
 
 #---------------------------------------------------------------------------------------------------------
+# directed network processing
+
+def make_connected(net):
+    '''Adds one out-link to a randomly selected node to all hanging nodes'''
+    nodes_list = list(net.nodes.keys())
+    out_degrees = np.array(net.node_properties('outdegree'))
+    ind = np.where(out_degrees == 0)[0]
+    hanging_nodes = []
+    for i in ind: hanging_nodes.append(list(net.nodes.keys())[i])
+    for node in hanging_nodes : net.add_edge(node,np.random.choice(nodes_list))
+    return net
+
+#---------------------------------------------------------------------------------------------------------
 # core-periphery stuff
 
 def get_node_strengths(net):
@@ -22,10 +35,7 @@ def get_node_strengths(net):
 
 def remove_hanging(net,method="cut"):
     '''Remove hanging nodes and returns network'''
-    if method == "teleport":
-        return "no method defined for this yet"
-    
-    elif method == "cut":
+    if method == "cut":
         out_degrees = np.array(net.node_properties('outweight'))
         
         if (out_degrees == 0).any():
@@ -59,7 +69,7 @@ def get_coreness(net,R=1):
     A = net.adjacency_matrix(weighted=True)
     T_t = net.transition_matrix()
     T = T_t.transpose()
-    N = np.shape(A)[0]
+    N = np.shape(A)[0] 
     
     out_degrees = np.array(net.node_properties('outweight'))
     assert ((out_degrees > 0).all()), "Network must be ergodic."
@@ -95,7 +105,7 @@ def get_coreness(net,R=1):
         i=i+1
     
     
-    # perform R runs of the CP algorithm
+    # perform R runs of the CP algorithm - don't need this anymore so fix and remove R=1 stuff
     r=0
     while r < R:
         #print(r/R)
