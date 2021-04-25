@@ -26,6 +26,18 @@ def make_connected(net):
     for node in hanging_nodes : net.add_edge(node,np.random.choice(nodes_list))
     return net
 
+def get_stationary(T):
+    '''enter some transition matrix T'''
+    # np.linalg.eig finds right eigenvectors - code from a very helpful stack exchange
+    # https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain?fbclid=IwAR0YnlQ7iwr1Ve1kRn-b6CDT0rbq7lDdBM1oD_KwiaEODWPv_-GMwiGBcVw
+    evals, evecs = np.linalg.eig(T.T)
+    evec1 = evecs[:,np.isclose(evals, 1)]
+    evec1 = evec1[:,0]
+    stationary = evec1 / evec1.sum()
+    stationary = stationary.real
+    stationary = np.squeeze(np.asarray(stationary))
+    return stationary
+
 #---------------------------------------------------------------------------------------------------------
 # core-periphery stuff
 
@@ -75,24 +87,17 @@ def get_coreness(net,R=1):
     assert ((out_degrees > 0).all()), "Network must be ergodic."
     node_strengths = get_node_strengths(net)
     
-    # get stationary distribution of first-order Markov process - quick fix for now
-    # method uses restarted Arnoldi and occasionally converges to second largest evec
-    # if spectral gap is negative tell function to run it again
-    # not 100% sure of this, this needs more looking into later
+    # get stationary distribution of first-order Markov process - page rank
+    # using pathpy's page rank
+    ps_t = np.array(list(zip(pp.algorithms.centralities.pagerank(net).values())))
     
-    v11 = -1
-    #spectral_gap=-1
-    while v11<0:
-        _,ps = scipy.sparse.linalg.eigs(T,k=1,which='LM',tol=0) # check L&R
-        #lambda_1=eigs[0]
-        #lambda_2=eigs[1]
-        #spectral_gap = lambda_1-lambda_2
-        ps_t = ps.real
-        v11 = ps_t[0]
-        
-    # old
-    #_,ps = scipy.sparse.linalg.eigs(T,k=1,which='LM',tol=0) # check L&R
-    #ps_t = ps.real # need to check about complex outputs
+    # previously
+    #v11 = -1
+    #while v11<0:
+    #    _,ps = scipy.sparse.linalg.eigs(T,k=1,which='LM',tol=0) # check L&R
+    #    ps_t = ps.real
+    #    v11 = ps_t[0]
+          
     
     # get indices for node names (quick fix for now)
     nodes_ind = np.arange(0,N)
